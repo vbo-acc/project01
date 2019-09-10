@@ -1,0 +1,3 @@
+[submodule "project02"]
+	path = project02
+	url = https://github.com/vbo-acc/project02.git
