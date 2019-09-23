@@ -1,5 +1,5 @@
 public class ClassB {
 
-    //ololo123
+    //ololo1
 
 }
